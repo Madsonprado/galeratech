@@ -1,0 +1,39 @@
+        body {
+            background-color: lightcoral;
+        }
+            p{
+                color: white;
+                font-family: "Roboto", sans-serif; /* TIPO DA FONTE8*/
+                /*font-optical-sizing: auto;  NAO NECESSARIO*/ 
+                font-weight: 400;/*PESO/ EXPESSURA DA LETRA*/
+                font-style: normal;/* COMO APARECE O TEXTO TIPO TEXYUAL*/
+                /*font-variation-settings:
+                "wdth" 100;*/
+            }
+            h1{
+             font-family: "Playwrite IE", cursive;
+                font-weight: 900;
+                font-style: normal;
+                color: white;
+            }
+            h2{
+             font-family: "Playwrite IE", cursive;
+                font-weight: 900;
+                font-style: normal;
+                color: white;
+            }
+            a{
+                color: rgb(90, 0, 71);
+            }
+            a:hover{
+                color: rgb(255, 255, 255);
+            }
+            hr{
+                border: 3px solid color ;
+            }
+            img{
+                width: 30%; /* largura*/
+                height: auto; /*altura*/
+                border-radius: 10px; /*arrendondar bordas*/
+                box-shadow: 3px 3px 5px color rgb(0, 0, 0); 
+            }         
