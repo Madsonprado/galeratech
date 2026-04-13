@@ -1,0 +1,53 @@
+body {
+            background-color: rgb(37, 11, 11);
+        }
+            p{
+                color: rgb(238, 129, 129)   ;
+                font-family: "Roboto", sans-serif; /* TIPO DA FONTE8*/
+                /*font-optical-sizing: auto;  NAO NECESSARIO*/ 
+                font-weight: 400;/*PESO/ EXPESSURA DA LETRA*/
+                font-style: normal;/* COMO APARECE O TEXTO TIPO TEXYUAL*/
+                /*font-variation-settings:
+                "wdth" 100;*/
+            }
+            h1{
+             font-family: "Playwrite IE", cursive;
+                font-weight: 900;
+                font-style: normal;
+                color: white;
+                text-shadow:3px 3px 5px rgb(238, 129, 129);
+            }
+            h2{
+             font-family: "Playwrite IE", cursive;
+                font-weight: 900;
+                font-style: normal;
+                color: white;
+                text-shadow:3px 3px 5px rgb(238, 129, 129);
+            }
+            a{
+                color: rgb(238, 129, 129) ;
+            }
+            a:hover{
+                color: rgb(255, 255, 255);
+            }
+            hr{
+                border: 3px solid color ;
+            }
+            img{
+                width: 30%;/*Largura*/
+            height: auto;/*Altura*/
+            border-radius: 5px;/*Arredondar as bordas*/
+            box-shadow: 3px 3px 5px rgb(238, 129, 129);/*Valor1 e valor2 são projeções da sombra, valor3 espalhamento da sombra, cor da sombra*/ 
+            }         
+            h3{
+                color: white;
+                text-shadow:3px 3px 5px rgb(238, 129, 129);
+            }
+            ul{
+                color: rgb(238, 129, 129) ;
+                list-style: circle;
+            }
+            ol{
+                color: rgb(238, 129, 129) ;
+                list-style: decimal;
+            }

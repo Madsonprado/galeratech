@@ -1,8 +1,8 @@
         body {
-            background-color: rgb(56, 8, 8);
+            background-color: #7D2210;
         }
             p{
-                color: orange   ;
+                color: yellow  ;
                 font-family: "Roboto", sans-serif; /* TIPO DA FONTE8*/
                 /*font-optical-sizing: auto;  NAO NECESSARIO*/ 
                 font-weight: 400;/*PESO/ EXPESSURA DA LETRA*/
@@ -16,40 +16,38 @@
                 font-weight: 900;
                 font-style: normal;
                 color: white;
-                text-shadow: 3px 3px 5px orange ;
+                text-shadow: 3px 3px 5px yellow ;
             }
             h2{
              font-family: "Playwrite IE", cursive;
                 font-weight: 900;
                 font-style: normal;
                 color: white;
-                text-shadow: 3px 3px 5px orange ;
+                text-shadow: 3px 3px 5px yellow ;
             }
             a{
-                color: orange;
+                color: yellow;
             }
             a:hover{
                 color: rgb(255, 255, 255);
             }
-            hr{
-                border: 3px solid color ;
-            }
+
             img{
                 width: 30%;/*Largura*/
             height: auto;/*Altura*/
             border-radius: 5px;/*Arredondar as bordas*/
-            box-shadow: 3px 3px 5px orange;/*Valor1 e valor2 são projeções da sombra, valor3 espalhamento da sombra, cor da sombra*/
+            box-shadow: 3px 3px 5px yellow;/*Valor1 e valor2 são projeções da sombra, valor3 espalhamento da sombra, cor da sombra*/
             }         
             h3{
                 color: white;
-                text-shadow: 3px 3px 5px orange ;
+                text-shadow: 3px 3px 5px yellow ;
             }
             ul{
-                color: orange;
+                color: yellow;
                 list-style: circle;
             }
             ol{
-                color: orange;
+                color: yellow;
                 list-style: decimal;
             }
             
